@@ -3,7 +3,8 @@ Lab C++ code for the CS 3210 011 - Computer Graphics course during Spring of 202
 
 Instructor: Dr. Darrin Rothe <rothede@msoe.edu>
 
-## Lab 1 - 
+## Lab 1 - Console Program
+The purpose of this lab is to write a simple console program in C++ using C++ standard library function.
  - Accepts an ASCII STL file via the comand line
  - Opens and reads the file
  - Identifies each facet and prints the coordinates of each verticies to the console
